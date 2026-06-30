@@ -96,65 +96,6 @@ All application data is stored using **Local Storage**, making it lightweight wh
 | Deployment | Vercel |
 
 ---
-
-# 📂 Project Structure
-
-```text
-SpendSmart Pro
-│
-├── src
-│   ├── components
-│   ├── pages
-│   ├── hooks
-│   ├── utils
-│   ├── data
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── index.html
-├── package.json
-└── vite.config.js
-```
-
----
-
-# 🚀 Getting Started
-
-Clone the repository
-
-```bash
-git clone https://github.com/saarika-codes/spendsmart-pro.git
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
----
-
-# 📱 Responsive Design
-
-The application is fully responsive and optimized for
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
-
 ---
 
 # 🎯 Learning Outcomes
@@ -197,11 +138,7 @@ https://github.com/saarika-codes
 
 LinkedIn
 
-(Add your LinkedIn profile)
-
-Portfolio
-
-(Add your Portfolio URL)
+www.linkedin.com/in/sarika-codes
 
 ---
 
